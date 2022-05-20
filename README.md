@@ -1,4 +1,10 @@
 # Catch-poo
+
+<br>
+
+## 소개
+해저에 떠다니는 오염 물질을 클릭하여 제거하고, 해양 생물을 구하는 Vanilla JS로 만든 미니 게임 입니다.
+
 <br>
 
 ## 최종 결과물
@@ -13,11 +19,6 @@ Lose<br />
 
 Win<br />
 <img width="640" alt="최종 결과물-Win" src="https://user-images.githubusercontent.com/93115007/160332471-e888bd59-3cfb-46b1-96b0-4fbf8df05a58.png">
-
-<br>
-
-## 소개
-해저에 떠다니는 오염 물질을 클릭하여 제거하고, 해양 생물을 구하는 Vanilla JS로 만든 미니 게임 입니다.
 
 <br>
 
@@ -39,6 +40,7 @@ Win<br />
   - setInterval과 clearInterval을 사용해 타이머를 실행하고, 멈추도록 했습니다.
 
 <br>
+
 
 ## 개발 환경
   - 개발도구: VSCode, Github
